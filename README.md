@@ -65,7 +65,7 @@ React 18 · Next.js · TypeScript · Tailwind CSS · shadcn/ui
 SwiftUI (iOS 17+) · Swift Charts
 
 **Backend**
-Supabase (Postgres + Auth) · Prisma ORM · OpenAI API · Anthropic Claude API
+Supabase (Postgres + Auth) · Prisma ORM · OpenAI API · Anthropic Claude API · Python
 
 **iOS System Integrations**
 SwiftData · EventKit
@@ -75,6 +75,9 @@ Google OAuth (PKCE) via Supabase Auth
 
 **Deployment**
 Vercel (Web) · Supabase (Backend) · iOS App Store / TestFlight
+
+**Data / Scripts** 
+Python
 
 ---
 
