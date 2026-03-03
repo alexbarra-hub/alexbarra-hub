@@ -15,7 +15,7 @@
 
 I build early-stage products that help people think better, live better, and make better decisions. Each project is a live experiment in human-centered AI.
 
-My background spans sales, marketing, customer success, operations, HR, and consulting — from startups to Fortune 50 companies. Currently an MBA candidate at Berkeley Haas School of Business. Creator of **OFF ALGO**, where I explore attention, behavior, and curiosity beyond algorithms.
+My background spans sales, marketing, customer success, operations, HR, and consulting — from startups to Fortune 50 companies.
 
 🌐 [alexbarra.com](https://www.alexbarra.com)
 
