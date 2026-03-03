@@ -36,7 +36,7 @@ An AI-powered coaching application that provides personalized guidance and suppo
 ### 🧭 OFF ALGO
 A newsletter and content platform exploring ideas beyond the algorithm. Breaking free from digital echo chambers with thoughtful perspectives and authentic conversations.
 
-`Newsletter` `Content` `Writing` — [Substack](#) · [Beehiiv](#) · [Website](#)
+`Newsletter` `Content` `Writing` — [Substack](https://offa1go.substack.com)
 
 ### 🌱 Start Living
 An interactive tool designed to help people take action and start living their best lives. Practical steps and inspiration for meaningful change.
