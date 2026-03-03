@@ -12,6 +12,7 @@
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Anthropic_Claude-CC785C?style=flat-square)
+![Perplexity](https://img.shields.io/badge/Perplexity%20Computer-1FB8CD?style=flat-square&logo=perplexity&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 I build early-stage products that help people think better, live better, and make better decisions. Each project is a live experiment in human-centered AI.
