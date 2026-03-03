@@ -79,7 +79,7 @@ Vercel (Web) · Supabase (Backend) · iOS App Store / TestFlight
 
 ## 📊 By the Numbers
 
-> 12+ years experience · $400K in new consulting sales · Transformations across 4+ industries · 4th-generation founder
+> 12+ years experience · $400K in new consulting sales @ Propeller · Transformations across 4+ industries · 4th-generation founder
 
 ---
 
