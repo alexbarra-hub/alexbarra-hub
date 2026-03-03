@@ -89,6 +89,7 @@ Vercel (Web) · Supabase (Backend) · iOS App Store / TestFlight
 2. **Sephora** — Marketing & Operational Excellence - Consulting
 3. **Propeller** — Management Consulting
 4. **Delta Dental** — Organizational Effectiveness
+5. **Barra Consulting** — Business consulting for early-stage startups and Fortune 500s
 
 ---
 
@@ -98,9 +99,11 @@ Vercel (Web) · Supabase (Backend) · iOS App Store / TestFlight
 - **Berkeley Haas** — Evening & Weekend MBA, Class of 2028
 - **Prosci Certified** — Change Management Practitioner
 - **Hustle Fund** — Angel Squad Member
+
+## 🐻 MBA @ Haas
 - **Berkeley Haas Entrepreneurship Association** — VP of Events
 - **Q@Haas (EWMBA)** — VP of EWMBA
-- **Barra Consulting** — Business consulting for early-stage startups and Fortune 500s
+
 
 ---
 
