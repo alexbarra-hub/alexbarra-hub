@@ -117,8 +117,8 @@ Vercel (Web) · Supabase (Backend) · iOS App Store / TestFlight
 
 ## ✨ Random Facts
 
-- 🐾 Border collie parent (Finn)
-- 📺 Real Housewives of Salt Lake City enthusiast
+- 🐾 Dog parent x2(Finn & Holly)
+- 📺 Real Housewives enthusiast
 - ⚡ Golden State Valkyries supporter
 - 🎓 4th-generation founder
 
