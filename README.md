@@ -25,6 +25,18 @@ My background spans sales, marketing, customer success, operations, HR, and cons
 
 ## 🚀 What I'm Building
 
+### 💸 Pot
+No more fronting money on group trips. Everyone connects their card once — when anyone taps, everyone pays their share instantly. No Venmo, no IOUs, no awkward conversations.
+
+`Web App` `Group Travel` `FinTech`
+
+
+### 🏕️ Gather
+A group camping coordinator designed for friends who want to actually go, not just talk about it. Syncs everyone's availability, tracks live campsite openings on recreation.gov, and handles RSVPs, packing lists, and weather forecasts so trips come together without the group-chat chaos.
+
+`Web App` `Group Travel` `Outdoors`
+
+
 ### 🧠 Rally
 A productivity tool designed specifically for ADHD minds. Helps break down tasks, maintain focus, and build momentum with smart features tailored to neurodivergent thinking patterns.
 
