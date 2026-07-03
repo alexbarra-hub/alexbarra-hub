@@ -25,6 +25,11 @@ My background spans sales, marketing, customer success, operations, HR, and cons
 
 ## 🚀 What I'm Building
 
+### 🧭 CURiO
+Career pivots are messy and lonely. CURiO turns your spoken story into a structured journey, matches you against people who've navigated the same transition, and generates a personalized next-step plan. No blank-page career advice, no generic templates.
+
+`Web App` `Voice AI` `Career Tech`
+
 ### 💸 Pot
 No more fronting money on group trips. Everyone connects their card once — when anyone taps, everyone pays their share instantly. No Venmo, no IOUs, no awkward conversations.
 
